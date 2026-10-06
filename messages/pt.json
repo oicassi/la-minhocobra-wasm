@@ -8,5 +8,6 @@
 	"game_controls": "Setas para mover · Q para desistir · Enter para jogar de novo",
 	"game_instructions_1": "La Minhocobra é feita das comidas que ela pega no mapa",
 	"game_instructions_2": "Cada comida tem uma cor. Pegando uma comida com a mesma cor da Minhocobra, remove uma comida dela",
-	"game_instructions_3": "Acertar as caixas com '?' ou a Minhocobra mesma é Game Over"
+	"game_instructions_3": "Acertar as caixas com '?' ou a Minhocobra mesma é Game Over",
+	"description": "Esse é um jogo bobinho estilo snake feito em C com Raylib e portado para web com WebAssembly"
 }

@@ -8,5 +8,6 @@
 	"game_controls": "Arrow keys to move · Q to give up · Enter to play again",
 	"game_instructions_1": "La Minhocobra is made of the food it gets on the map",
 	"game_instructions_2": "Each food has a color. Taking the food with the same color as the head, removes one food from the Minhocobra",
-	"game_instructions_3": "Hitting the '?' boxes or the Minhocobra itself is Game Over"
+	"game_instructions_3": "Hitting the '?' boxes or the Minhocobra itself is Game Over",
+	"description": "This is a silly snake like game made in C with Raylib and ported to web through WebAssembly"
 }
