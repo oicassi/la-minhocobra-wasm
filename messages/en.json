@@ -1,0 +1,12 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Hello, {name} from en!",
+	"game_subtitle": "A snake game built on a queue, written in C with raylib and running here through WebAssembly.",
+	"game_play": "Play",
+	"game_loading": "Loading…",
+	"game_error": "The game could not be loaded.",
+	"game_controls": "Arrow keys to move · Q to give up · Enter to play again",
+	"game_instructions_1": "La Minhocobra is made of the food it gets on the map",
+	"game_instructions_2": "Each food has a color. Taking the food with the same color as the head, removes one food from the Minhocobra",
+	"game_instructions_3": "Hitting the '?' boxes or the Minhocobra itself is Game Over"
+}
